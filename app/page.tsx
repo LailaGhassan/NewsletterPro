@@ -5,7 +5,7 @@ import {
   ChartBarIcon, EnvelopeIcon, CalendarIcon, CogIcon, BellIcon, HomeIcon,
   DocumentArrowDownIcon, EyeIcon, PlusIcon, XMarkIcon, ChevronLeftIcon,
   ChevronRightIcon, ArrowUpIcon, ArrowDownIcon, FireIcon, UserGroupIcon,
-  ChartPieIcon, ClockIcon, SparklesIcon, Bars3Icon, PhoneIcon
+  ChartPieIcon, Bars3Icon
 } from '@heroicons/react/24/outline';
 import { motion, AnimatePresence } from 'framer-motion';
 
