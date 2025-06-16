@@ -29,6 +29,8 @@ An advanced, visually-rich **Next.js** dashboard built with **Tailwind CSS**, **
 
 ## 🖥️ Live Demo
 
+https://adorable-mermaid-4e4689.netlify.app/
+
 
 ---
 
